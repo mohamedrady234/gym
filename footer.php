@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="footer mt-auto footer_one">
+<footer class="footer mt-auto footer_one footer_new">
 	<div class="copyright bg-white">
 		<p>
 			Copyright &copy; <span id="ec-year"></span>
